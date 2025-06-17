@@ -66,6 +66,3 @@ If you are interested in using any part of this work **commercially**, please re
 
 The software is provided "as-is", with no warranties or guarantees of any kind.
 
-**Contact:**  
-Charlie Dexter – [your-email@example.com]  
-GitHub: [https://github.com/your-username](https://github.com/your-username)
